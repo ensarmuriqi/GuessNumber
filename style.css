@@ -1,0 +1,25 @@
+*{
+    background-color: blueviolet;
+}
+
+#guess{
+    background-color: white;
+    padding: 0.5rem;
+}
+body{
+    display: flex;
+    justify-content: center;
+
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#submitGuess{
+    padding: 0.5rem;
+    margin-top: 20px;
+}
+
+p{
+    font-size: larger;
+}
